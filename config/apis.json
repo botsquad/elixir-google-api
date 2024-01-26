@@ -231,6 +231,11 @@
   },
   {
     "version": "v1",
+    "url": "https://businessmessages.googleapis.com/$discovery/rest?version=v1",
+    "name": "BusinessMessages"
+  },
+  {
+    "version": "v1",
     "url": "https://businessprofileperformance.googleapis.com/$discovery/rest?version=v1",
     "name": "BusinessProfilePerformance"
   },
