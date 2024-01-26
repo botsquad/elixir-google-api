@@ -30,7 +30,7 @@ defmodule GoogleApis.Mixfile do
   # Type "mix help compile.app" for more information
   def application do
     # Specify extra applications you'll use from Erlang/Elixir
-    [applications: [:oauth2], extra_applications: [:logger]]
+    [extra_applications: [:oauth2, :logger]]
   end
 
   # Dependencies can be Hex packages:
